@@ -1,0 +1,14 @@
+{
+	"serial":[
+				{
+					"port": "/dev/ttyUSB1",
+					"baud": 9600,
+					"name": "XTend"
+				},
+				{
+					"port": "/dev/pts/21",
+					"baud": 9600,
+					"name": "Virtual"
+				}
+		 ]
+}
