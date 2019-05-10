@@ -1,7 +1,13 @@
 {
 	"d_coef" : 0.81000000000000005,
 	"i_coef" : 0.51000000000000001,
+	"land_speed" : -0.40000000000000002,
+	"land_speed_near_ground" : -0.20000000000000001,
+	"linear_range_coef" : 0.059999999999999998,
 	"p_coef" : 0.75,
+	"range_type" : 1,
 	"save_imgs" : 1,
-	"tags_id" : 1
+	"tags_id" : 2,
+	"takeoff_speed" : 0.40000000000000002,
+	"takeoff_speed_near_ground" : 0.20000000000000001
 }
