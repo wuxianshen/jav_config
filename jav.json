@@ -7,7 +7,14 @@
 	"p_coef" : 0.75,
 	"range_type" : 1,
 	"save_imgs" : 1,
+	"search_tag_height" : 5.0,
+	"tag_hot_point_latitude" : 0.68254943280179603,
+	"tag_hot_point_longitude" : 2.0449721590120613,
+	"search_obj_height" : 5.0,
+	"obj_hot_point_latitude" : 0.68254943280179603,
+	"obj_hot_point_longitude" : 2.0449721590120613,
 	"tags_id" : 2,
 	"takeoff_speed" : 0.40000000000000002,
-	"takeoff_speed_near_ground" : 0.20000000000000001
+	"takeoff_speed_near_ground" : 0.20000000000000001,
+	"va_takeoff_height" : 2.5
 }
