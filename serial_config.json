@@ -2,7 +2,7 @@
 	"serial":[
 				{
 					"port": "/dev/ttyUSB1",
-					"baud": 9600,
+					"baud": 115200,
 					"name": "XTend"
 				},
 				{

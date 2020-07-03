@@ -1,1 +1,1 @@
-/home/taojing/share/JAV/Onboard-SDK/utility/bin/linux/x86-64/M210ConfigTool --usb-port /dev/ttyACM0 --config-file UserConfig.txt --simulation on --latitude 39.106933 --longitude 117.168405
+/home/tao/work/project/JAV/M210/Onboard-SDK/utility/bin/linux/x86-64/M210ConfigTool --usb-port /dev/ttyACM0 --config-file /home/tao/jav_config/UserConfig.txt --simulation on --latitude 39.106933 --longitude 117.168405
